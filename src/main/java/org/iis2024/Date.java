@@ -85,4 +85,8 @@ public class Date {
       return false;
     }
   }
+
+  public String eduardo() {
+    return "Hola soy Eduardo";
+  }
 }
